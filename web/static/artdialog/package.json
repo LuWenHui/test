@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "artdialog@*",
+        "scope": null,
+        "escapedName": "artdialog",
+        "name": "artdialog",
+        "rawSpec": "*",
+        "spec": "*",
+        "type": "range"
+      },
+      "/Users/chaitao/Sites/ego/smp"
+    ]
+  ],
+  "_from": "artdialog@*",
+  "_id": "artdialog@6.0.5",
+  "_inCache": true,
+  "_location": "/artdialog",
+  "_npmUser": {
+    "name": "zheng1",
+    "email": "leofml2012@gmail.com"
+  },
+  "_npmVersion": "1.4.28",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "artdialog@*",
+    "scope": null,
+    "escapedName": "artdialog",
+    "name": "artdialog",
+    "rawSpec": "*",
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/artdialog/-/artdialog-6.0.5.tgz",
+  "_shasum": "166b25204e5016d3aba83ecf96a0b76682bc45a7",
+  "_shrinkwrap": null,
+  "_spec": "artdialog@*",
+  "_where": "/Users/chaitao/Sites/ego/smp",
+  "author": {
+    "name": "aui"
+  },
+  "bugs": {
+    "url": "https://github.com/aui/artDialog/issues"
+  },
+  "dependencies": {
+    "jquery": "*"
+  },
+  "description": "经典的网页对话框组件，内外皆用心雕琢",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-cli": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-unwrap": "*"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "166b25204e5016d3aba83ecf96a0b76682bc45a7",
+    "tarball": "https://registry.npmjs.org/artdialog/-/artdialog-6.0.5.tgz"
+  },
+  "gitHead": "fe22ff2792b2d814e6b2a3cbb07314a494820665",
+  "homepage": "https://github.com/aui/artDialog",
+  "keywords": [
+    "dialog"
+  ],
+  "license": "LGPL",
+  "main": "./src/dialog.js",
+  "maintainers": [
+    {
+      "name": "zheng1",
+      "email": "leofml2012@gmail.com"
+    }
+  ],
+  "name": "artdialog",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aui/artDialog.git"
+  },
+  "scripts": {},
+  "version": "6.0.5"
+}
